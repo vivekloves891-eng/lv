@@ -1,0 +1,23 @@
+kv-luxury/
+│
+├── app/
+│   ├── layout.js
+│   ├── page.js
+│   ├── globals.css
+│   └── collections/
+│       └── page.js
+│
+├── components/
+│   ├── Navbar.js
+│   ├── Hero.js
+│   ├── About.js
+│   ├── CollectionsPreview.js
+│   └── Footer.js
+│
+├── public/
+│   └── hero.jpg
+│
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── next.config.js
